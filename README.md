@@ -110,5 +110,5 @@ A collaborative team project focused on applying IoT and software engineering co
 
 ## 📬 Contact
 
-For demo access or additional project details, feel free to reach out at baranwaltanmay16@gmail.com
+For demo access or additional project details, feel free to reach out at jadhavshravani223@gmail.com
 
